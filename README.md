@@ -1,4 +1,5 @@
-# The-Goal
+# The Goal - Process of Ongoing Improvement
+
 by Eliyahu M. Goldratt, Jeff Cox, et al.
 
 Summary
